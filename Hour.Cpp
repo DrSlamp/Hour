@@ -1,3 +1,8 @@
+/* Codigo de apoyo para la elaboracion del proyecto Hour
+Para uso de Tcorp y sus 3 integrantes.
+by Paul
+*/ 
+
 #include <vector>
 #include <iostream>
 #include <string>
@@ -107,7 +112,7 @@ start = std::time(NULL);
 	salon1 = rand();
 	} else {
 
-	cout<<" alguno de los salones colisiona o existe algún error"<<endl;
+	cout<<" alguno de los salones colisiona o existe algï¿½n error"<<endl;
 
 	}
 
@@ -121,7 +126,7 @@ start = std::time(NULL);
 
 
 
-    vector<string> v; //Declaración de 'v' como vector de enteros (int)
+    vector<string> v; //Declaraciï¿½n de 'v' como vector de enteros (int)
 
     v.push_back("*|   Lunes   |*|");  v.push_back("*|   martes   |*|");   v.push_back("*|   miercoles   |*|"); v.push_back("*|   jueves   |*|");  v.push_back("*|   viernes   |*|");
 
